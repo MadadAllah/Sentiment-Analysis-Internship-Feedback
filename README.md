@@ -79,7 +79,6 @@ The dataset contains synthetic feedback from 1,100 internship participants. The 
 
 ## Files Included
 
-- **sentiment_analysis.py**: Python script that performs all the analysis, including data loading, sentiment classification, and visualization.
-- **Internship_Feedback_Demo_1000.xlsx**: Sample feedback dataset.
-- **Sentiment_Analysis_Results.xlsx**: Excel file containing the sentiment analysis results for the entire dataset.
-- **Sentiment_Feedback_Sheets.xlsx**: Excel file containing separate sheets for positive, neutral, and negative feedback.
+- **sentiment_analysis.ipynb**: Python script that performs all the analysis, including data loading, sentiment classification, and visualization.
+- **Internship_Feedback_Dataset.xlsx**: Sample feedback dataset.
+
